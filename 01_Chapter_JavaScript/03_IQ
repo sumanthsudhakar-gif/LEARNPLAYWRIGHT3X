@@ -1,0 +1,25 @@
+//console.log(a);
+//let a = 10;
+
+
+//console.log(a);
+//const a = 10;
+
+//greet();
+//function greet() {
+  //console.log("Hi");
+//}
+
+
+//sayHi();
+//const sayHi = function() {
+  //console.log("Hi");
+//};
+
+//{
+  //console.log(testName);
+  //let testName = "Login Test";
+//}
+
+let count = count + 1;
+

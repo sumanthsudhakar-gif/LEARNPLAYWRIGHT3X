@@ -1,0 +1,11 @@
+
+
+
+
+console.log(statuses[0]); // Output: Pass
+    console.log(statuses[2]); // Output: Skip
+
+    console.log(statuses.at(-1)); // Output: Skip
+    console.log(statuses.at(-2)); // Output: Fail
+
+    console.log(statuses.at(-9)); // Output: Pass
